@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React/React-Native and I have experience with publishing React-Native apps to the Google Play Store
 - 💞️ It would be a great experience to collaborate with other passionate React/React-Native developers to learn from each other and improve our skillset
 - 📫 How to reach me ...
-- www.simplyreact.uk
+- [Medium Profile](https://medium.com/@alexb72)
 
 Published projects
 
